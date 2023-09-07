@@ -7,6 +7,7 @@ This project demonstrates text and image classification techniques using a varie
 ---
 
 ### Text Classification
+* [Notebook is here](https://github.com/Noxfr69/Text_image_classification/blob/main/text_classification_p6.ipynb)
 
 #### Algorithms
 * TF-IDF Vectorizer
@@ -14,11 +15,15 @@ This project demonstrates text and image classification techniques using a varie
 * BERT
 * Universal Sentence Encoder (USE)
 
+### Text Classification with LLM
+* [Notebook is here](https://github.com/Noxfr69/Text_image_classification/blob/main/Text_classification_LLM/Open_ai_classification.ipynb)
+
 #### Language Models
 * GPT-3.5
 * GPT-4
 
 ### Image Classification
+* [Notebook is here](https://github.com/Noxfr69/Text_image_classification/blob/main/CNN_classification_p6.ipynb)
 
 #### Key Components
 * SIFT
